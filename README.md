@@ -1,6 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Ashish currently working at Amazon as a Software Engineer</h1>
-<h3 align="center">I have 7+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</h3>
-<h3 align="center">I actively create coding and software engineering related content on LinkedIn, YouTube & X.</h3>
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<ul>
+  <li>I'm Ashish currently working at Amazon as a Software Engineer</li>
+  <li>I have 7+ years of experience working in various domains like full stack, machine learning, backend and data engineering.</li>
+  <li>I actively create coding and software engineering related content on LinkedIn, YouTube & X.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
